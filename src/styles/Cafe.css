@@ -67,6 +67,7 @@
 @media (max-width: 768px) {
 .cafe {
     flex-direction: column;
+    height: 120svh;
 }
 
 .cafe__steps__banner {
