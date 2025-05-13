@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: SoDoSans;
+}
+
+
+@font-face {
+  font-family: "SoDoSans";
+  src: url(../src/assets/SoDoSans-Bold.ttf);
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: "SoDoSans";
+  src: url(../src/assets/SoDoSans-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "SoDoSans";
+  src: url(../src/assets/SoDoSans-SemiBold.ttf);
+  font-weight: bold;
+}

@@ -1,0 +1,57 @@
+.main {
+    max-width: 1400px;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+
+  .banner__dracula {
+    background-color: #83456c;
+    color: white;
+  }
+
+ .banner__dracula .banner__description_title {
+    margin-bottom: 30px;
+ }
+
+ .banner__nariño {
+  background-color: #f2f0ea ;
+ }
+
+ .banner__nariño .banner__description_title {
+  width: 200px;
+ }
+
+ .banner__nariño .banner__button {
+  display: block;
+ }
+
+ .banner__envases {
+  margin-top: 30px;
+  background-color:#1e3932;
+  flex-direction: row-reverse;
+  color: white;
+ }
+
+ .banner__envases .banner__description_title {
+  margin-bottom: 30px;
+  width: 200px;
+ }
+
+ .main__cards{
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-between;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .main__cards {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+}
