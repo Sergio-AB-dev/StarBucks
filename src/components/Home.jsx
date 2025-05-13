@@ -2,7 +2,7 @@
 import "../styles/Main.css"
 import Banners from './Banners'
 import Banner1 from "../../src/assets/2024-10-Banner_frappulla_3.jpg"
-import Banner2 from "../../src/assets/2024-05-BANNERS_COLOMBIA_NARIÑO.jpg"
+import Banner2 from "../../src/assets/2024-05-BANNERS_COLOMBIA_NARINO.jpg"
 import Banner3 from "../../src/assets/2024-05-BANNER_HAGAMOS_EL_CAMBIO.png"
 import "./Cards"
 import Cards from './Cards'
